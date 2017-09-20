@@ -1,3 +1,3 @@
 ## OVERTIME APP
 
-Features are amazing. This app is all you will ever need. You can email your kids while the app boils your coffe beans for you. Never again wiil you need to go to the store because this generic overtime app will do all your shopping online. No need to enter your adress, just enter all your credit cards and SS number so we can find you! Its amazing and you should download it for sure.
+- Features are amazing. This app is all you will ever need. You can email your kids while the app boils your coffe beans for you. Never again wiil you need to go to the store because this generic overtime app will do all your shopping online. No need to enter your adress, just enter all your credit cards and SS number so we can find you! Its amazing and you should download it for sure.
