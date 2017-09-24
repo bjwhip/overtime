@@ -55,6 +55,7 @@ RSpec.configure do |config|
   config.after(:each) { DatabaseCleaner.clean }
   config.infer_spec_type_from_file_location!
   config.filter_rails_from_backtrace!
+  config.include FactoryGirl::Syntax::Methods
   # Remove this line if you're not using ActiveRecord or ActiveRecord fixtures
   config.fixture_path = "#{::Rails.root}/spec/fixtures"
 
