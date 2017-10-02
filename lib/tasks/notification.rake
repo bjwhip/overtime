@@ -3,6 +3,8 @@ namespace :notification do
   task sms: :environment do
     puts "im in a rake task"
 
+    #something here
+
     # User.all.each do |user|
     #   SmsTool.send_sms()
     # end
