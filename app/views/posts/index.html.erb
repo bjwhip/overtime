@@ -1,5 +1,7 @@
 <h1>Posts</h1>
 
+<%= paginate @posts %>
+
 <table class="table table-striped table-hover">
   <thead>
     <tr>
@@ -26,3 +28,5 @@
     <%= render @posts %>
   </tbody>
 </table>
+
+<%= paginate @posts %>
