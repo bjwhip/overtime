@@ -1,4 +1,5 @@
 class User < ActiveRecord::Base
+  scope :employees, -> {where (type: nil) }
   has_many :posts
   has_many :audit_logs
   # Include default devise modules. Others available are:
